@@ -1,2 +1,2 @@
-# MyDjangoApp
-Its a project is under implementation using django framework
+# Automation
+It automation framework implementation using python
