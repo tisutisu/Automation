@@ -1,2 +1,2 @@
 # Automation
-Its a automation framework implementation using python
+Its an automation framework implementation using python
